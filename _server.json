@@ -1,0 +1,139 @@
+{
+  "Manga": [
+    {
+      "id": 1,
+      "name": "Alice Amino",
+      "genere": "fantasy",
+      "imageUrl": "/src/assets/capas/alicecapa.jpg",
+      "chapters": 1,
+      "score": 355,
+      "Publishing_status": "one-shot",
+      "language": "pt-br",
+      "CreatedAt": "2024-09-18T14:00:00.000Z",
+      "UpdatedAt": "2024-09-18T14:00:00.000Z"
+    },
+    {
+      "id": 2,
+      "name": "Blue Steel",
+      "genere": "cyberpunk",
+      "imageUrl": "/src/assets/capas/bluesteelcapa.jpg",
+      "chapters": 3,
+      "score": 500,
+      "Publishing_status": "série",
+      "language": "pt-br",
+      "CreatedAt": "2024-08-25T10:30:00.000Z",
+      "UpdatedAt": "2024-10-05T15:45:00.000Z"
+    },
+    {
+      "id": 3,
+      "name": "Jonas o quase mago",
+      "genere": "comedy",
+      "imageUrl": "/src/assets/capas/jonascapa.jpg",
+      "chapters": 2,
+      "score": 310,
+      "Publishing_status": "one-shot",
+      "language": "pt-br",
+      "CreatedAt": "2024-07-12T09:15:00.000Z",
+      "UpdatedAt": "2024-09-20T11:20:00.000Z"
+    },
+    {
+      "id": 4,
+      "name": "Kintsugi Warrior",
+      "genere": "action&adventure",
+      "imageUrl": "/src/assets/capas/kwcapa.jpg",
+      "chapters": 4,
+      "score": 480,
+      "Publishing_status": "série",
+      "language": "pt-br",
+      "CreatedAt": "2024-10-30T14:45:00.000Z",
+      "UpdatedAt": "2024-12-05T09:30:00.000Z"
+    },
+    {
+      "id": 5,
+      "name": "FablEnd",
+      "genere": "fantasy",
+      "imageUrl": "/src/assets/capas/fableendcapa.jpg",
+      "chapters": 5,
+      "score": 390,
+      "Publishing_status": "one-shot",
+      "language": "pt-br",
+      "CreatedAt": "2024-11-18T16:20:00.000Z",
+      "UpdatedAt": "2024-12-25T10:10:00.000Z"
+    },
+    {
+      "id": 6,
+      "name": "Bullseye",
+      "genere": "action&adventure",
+      "imageUrl": "/src/assets/capas/bullseyecapa.jpg",
+      "chapters": 1,
+      "score": 250,
+      "Publishing_status": "série",
+      "language": "pt-br",
+      "CreatedAt": "2024-12-05T11:30:00.000Z",
+      "UpdatedAt": "2025-01-10T08:45:00.000Z"
+    },
+    {
+      "id": 7,
+      "name": "Tamers",
+      "genere": "supernatural",
+      "imageUrl": "/src/assets/capas/Tamerscapa.jpg",
+      "chapters": 3,
+      "score": 320,
+      "Publishing_status": "série",
+      "language": "pt-br",
+      "CreatedAt": "2025-01-15T13:40:00.000Z",
+      "UpdatedAt": "2025-02-20T09:55:00.000Z"
+    },
+    {
+      "id": 8,
+      "name": "Issue #2",
+      "genere": "anotogy",
+      "imageUrl": "/src/assets/capas/sw2ndcapa.jpg",
+      "chapters": 0,
+      "score": 0,
+      "Publishing_status": "issue",
+      "language": "pt-br",
+      "CreatedAt": "2025-02-05T10:00:00.000Z",
+      "UpdatedAt": "2025-02-15T14:30:00.000Z"
+    },
+    {
+      "id": 9,
+      "name": "Issue #3",
+      "genere": "anotogy",
+      "imageUrl": "/src/assets/capas/Sw3rdIssue.jpg",
+      "chapters": 0,
+      "score": 0,
+      "Publishing_status": "issue",
+      "language": "pt-br",
+      "CreatedAt": "2025-02-12T10:00:00.000Z",
+      "UpdatedAt": "2025-02-20T14:30:00.000Z"
+    }
+  ],
+  "Banners": [
+    {
+      "title": "Discord",
+      "imageUrl": "/src/assets/banners/Banner-Discord.png",
+      "linkedUrl": "/ourdiscord"
+    },
+    {
+      "title": "Second Issue",
+      "imageUrl": "/src/assets/banners/SW2ndIssue.jpg",
+      "linkedUrl": "/secondissue"
+    },
+    {
+      "title": "Subscribe",
+      "imageUrl": "/src/assets/banners/SWSubscribe.jpg",
+      "linkedUrl": "/subscribe"
+    },
+    {
+      "title": "Welcome",
+      "imageUrl": "/src/assets/banners/SwWelcome.jpg",
+      "linkedUrl": "/welcome"
+    },
+    {
+      "title": "Welcome",
+      "imageUrl": "/src/assets/banners/Banner-Principal-Homepage_magazine_setembro2024.jpg",
+      "linkedUrl": "/welcome"
+    }
+  ]
+}
