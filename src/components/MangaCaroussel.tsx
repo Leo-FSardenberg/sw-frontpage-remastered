@@ -23,11 +23,11 @@ export function MangaCarrousel({ UploadType }: MangaCarousselProps) {
     return new Date(dateString)
   }
   const LatestChapters = manga
-    .filter(manga => manga.Publishing_status === 'série') // Added return
+    .filter(manga => manga.Publishing_status === 'série') 
     .sort((a, b) => {
       const aTime = parseDate(a.created_at)?.getTime() || 0
       const bTime = parseDate(b.created_at)?.getTime() || 0
-      return bTime - aTime // Sort by latest
+      return bTime - aTime 
     })
 
   return (
@@ -67,4 +67,5 @@ export function MangaCarrousel({ UploadType }: MangaCarousselProps) {
     </div>
   )
 }
-/* */
+
+
